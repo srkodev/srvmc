@@ -1,0 +1,27 @@
+{
+  "render-threads-enabled": true,
+  "maps": {
+    "world_village": {
+      "update-enabled": true
+    },
+    "world": {
+      "update-enabled": true
+    },
+    "world_lobby_dim_1": {
+      "update-enabled": true
+    },
+    "world_lobby": {
+      "update-enabled": true
+    },
+    "world_lobby_dim1": {
+      "update-enabled": true
+    },
+    "world_the_nether": {
+      "update-enabled": true
+    },
+    "world_the_end": {
+      "update-enabled": true
+    }
+  },
+  "hidden-players": []
+}

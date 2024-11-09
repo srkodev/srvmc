@@ -1,0 +1,41 @@
+portals:
+  shop:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: srko_dj
+    location: -210.0,41.0,269.0:-210.0,43.0,271.0
+    world: village
+    destination: p:lobby_shop
+  lobby_shop:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: srko_dj
+    location: -154.0,40.0,-229.0:-154.0,49.0,-225.0
+    world: lobby
+    destination: p:shop
+  lobby_world:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: srko_dj
+    location: -29.0,40.0,-229.0:-29.0,49.0,-224.0
+    world: lobby
+    destination: p:world
+  world:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: srko_dj
+    location: 335.0,67.0,-115.0:335.0,71.0,-111.0
+    world: world
+    destination: p:lobby_world

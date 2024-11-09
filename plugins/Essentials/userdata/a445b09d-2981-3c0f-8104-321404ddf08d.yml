@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.51.51.115
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729785277340
+  login: 1729785264329
+money: '0'
+last-account-name: arc
+logoutlocation:
+  world: 1306b0ca-d6a9-44bb-857e-ec5e61d71ee3
+  world-name: world
+  x: 315.55858808317856
+  y: 67.0
+  z: -101.36956453594038
+  yaw: -112.73743438720703
+  pitch: 13.5402193069458

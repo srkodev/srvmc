@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.51.51.115
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729785550656
+  login: 1729785539777
+money: '0'
+last-account-name: arddd
+logoutlocation:
+  world: 524966ed-3a7d-4ff2-b15b-2805da7e9324
+  world-name: lobby
+  x: -87.5447555845006
+  y: 45.0
+  z: -226.54339091279073
+  yaw: -166.48793029785156
+  pitch: 2.9848570823669434

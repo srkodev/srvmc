@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.142.127.29
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729788486057
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729788765681
+  login: 1729787107924
+  kits:
+    starter: 1729787591552
+money: '0'
+last-account-name: MrPatoBeurre
+lastlocation:
+  world: 1306b0ca-d6a9-44bb-857e-ec5e61d71ee3
+  world-name: world
+  x: 360.00575041609346
+  y: 106.6302348468262
+  z: -357.14099244338905
+  yaw: 175.83489990234375
+  pitch: 36.31376266479492
+logoutlocation:
+  world: 524966ed-3a7d-4ff2-b15b-2805da7e9324
+  world-name: lobby
+  x: -87.53159059888259
+  y: 45.0
+  z: -225.67307846773772
+  yaw: -174.6811065673828
+  pitch: 6.216151714324951

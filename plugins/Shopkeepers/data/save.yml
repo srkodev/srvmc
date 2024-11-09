@@ -1,0 +1,1113 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyway, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|3700
+'1':
+  uniqueId: 689305a4-b442-4307-8dfa-923796c02d26
+  world: village
+  x: -266
+  y: 39
+  z: 286
+  yaw: 321.35388
+  type: admin
+  name: wtf
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:cleric
+    villagerType: minecraft:savanna
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TORCHFLOWER_SEEDS
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BEACON
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PIGLIN_HEAD
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: WITHER_SKELETON_SKULL
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BELL
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ZOMBIE_HEAD
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DRAGON_HEAD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: CREEPER_HEAD
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: SKELETON_SKULL
+  snapshots: []
+'2':
+  uniqueId: fcc21cc8-8dd6-415c-8378-0fde6f0dcb86
+  world: village
+  x: -274
+  y: 39
+  z: 285
+  yaw: 142.30798
+  type: admin
+  name: stone
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:mason
+    villagerType: minecraft:taiga
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: STONE
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 5
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: MOSSY_COBBLESTONE
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 10
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIORITE
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 5
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GRANITE
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBBLED_DEEPSLATE
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 6
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DEEPSLATE
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 6
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ANDESITE
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: SMOOTH_SANDSTONE
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 5
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: SMOOTH_RED_SANDSTONE
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 5
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: QUARTZ_BLOCK
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 8
+    '11':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COPPER_BLOCK
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 8
+  snapshots: []
+'3':
+  uniqueId: 4a072fa6-31b6-4405-9980-24fdaeec69de
+  world: village
+  x: -282
+  y: 39
+  z: 280
+  yaw: 231.81567
+  type: admin
+  name: wood
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:mason
+    villagerType: minecraft:snow
+    villagerLevel: 2
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: OAK_LOG
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 10
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: SPRUCE_LOG
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 10
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BIRCH_LOG
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 10
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: JUNGLE_LOG
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 10
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ACACIA_LOG
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 10
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DARK_OAK_LOG
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 10
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: MANGROVE_LOG
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 15
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: CHERRY_LOG
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 15
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BAMBOO_BLOCK
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 15
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: CRIMSON_STEM
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 15
+    '11':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: WARPED_STEM
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 15
+  snapshots: []
+'4':
+  uniqueId: 5082bda4-e46f-4b87-82fb-921797cd3252
+  world: village
+  x: -282
+  y: 39
+  z: 262
+  yaw: 251.99829
+  type: admin
+  name: farming
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:farmer
+    villagerType: minecraft:swamp
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COCOA_BEANS
+        amount: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: WHEAT_SEEDS
+        amount: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PUMPKIN_SEEDS
+        amount: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BEETROOT_SEEDS
+        amount: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: MELON_SEEDS
+        amount: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+  snapshots: []
+'5':
+  uniqueId: 7104ddbd-d8a2-48ca-92ef-2f9736e7ee09
+  world: village
+  x: -276
+  y: 39
+  z: 255
+  yaw: 333.29694
+  type: admin
+  name: miner
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:toolsmith
+    villagerType: minecraft:taiga
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: CRYING_OBSIDIAN
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 10
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: OBSIDIAN
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 10
+  snapshots: []
+'6':
+  uniqueId: a0f5b681-5618-44d8-9fd8-e904fc469e01
+  world: village
+  x: -283
+  y: 39
+  z: 271
+  yaw: 100.52284
+  type: admin
+  name: food
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:butcher
+    villagerType: minecraft:jungle
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLDEN_APPLE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 20
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COOKED_MUTTON
+        amount: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 3
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COOKED_CHICKEN
+        amount: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 3
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COOKED_RABBIT
+        amount: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 3
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COOKED_COD
+        amount: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 3
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COOKED_SALMON
+        amount: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 3
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BREAD
+        amount: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 3
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COOKIE
+        amount: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 3
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: CAKE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 3
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PUMPKIN_PIE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 3
+  snapshots: []
+'7':
+  uniqueId: 44dd1308-a638-41bd-831d-7059e7c8d782
+  world: village
+  x: -266
+  y: 39
+  z: 254
+  yaw: 3.451565
+  type: admin
+  name: bookseller
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:librarian
+    villagerType: minecraft:desert
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            MENDING: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 32
+  snapshots: []
+'8':
+  uniqueId: 4bec76f6-80af-4bf4-80a3-97a06fba06ca
+  world: village
+  x: -283
+  y: 39
+  z: 269
+  yaw: 204.55417
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:butcher
+    villagerType: minecraft:jungle
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 19
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLDEN_APPLE
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COOKED_MUTTON
+        amount: 10
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COOKED_CHICKEN
+        amount: 10
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COOKED_RABBIT
+        amount: 5
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COOKED_COD
+        amount: 5
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COOKED_SALMON
+        amount: 5
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BREAD
+        amount: 10
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COOKIE
+        amount: 5
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: CAKE
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PUMPKIN_PIE
+  snapshots: []
+'9':
+  uniqueId: 66a368bc-7d20-4040-bdb3-45277d773dca
+  world: village
+  x: -282
+  y: 39
+  z: 278
+  yaw: 156.98589
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:mason
+    villagerType: minecraft:snow
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 9
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: OAK_LOG
+        amount: 64
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 9
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: SPRUCE_LOG
+        amount: 64
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 9
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BIRCH_LOG
+        amount: 64
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 9
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: JUNGLE_LOG
+        amount: 64
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 9
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ACACIA_LOG
+        amount: 64
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 9
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DARK_OAK_LOG
+        amount: 64
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 14
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: CHERRY_LOG
+        amount: 64
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 14
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BAMBOO_BLOCK
+        amount: 64
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 14
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: MANGROVE_LOG
+        amount: 64
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 14
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: CRIMSON_STEM
+        amount: 64
+    '11':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 14
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: WARPED_STEM
+        amount: 64
+  snapshots: []
+'10':
+  uniqueId: 1e2cfc3a-ed9d-4eed-845e-6fda5278e45b
+  world: village
+  x: -276
+  y: 39
+  z: 285
+  yaw: 80.28758
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:mason
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: STONE
+        amount: 64
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 9
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: MOSSY_COBBLESTONE
+        amount: 64
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIORITE
+        amount: 64
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GRANITE
+        amount: 64
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBBLED_DEEPSLATE
+        amount: 64
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DEEPSLATE
+        amount: 64
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ANDESITE
+        amount: 64
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: SMOOTH_SANDSTONE
+        amount: 64
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: SMOOTH_RED_SANDSTONE
+        amount: 64
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 7
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: QUARTZ_BLOCK
+        amount: 64
+    '11':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 7
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COPPER_BLOCK
+        amount: 64
+  snapshots: []
+'11':
+  uniqueId: 3023e0ad-4149-4540-be24-dcf7fc312768
+  world: village
+  x: -282
+  y: 39
+  z: 260
+  yaw: 58.02933
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:farmer
+    villagerType: minecraft:swamp
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COCOA_BEANS
+        amount: 10
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: WHEAT_SEEDS
+        amount: 10
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PUMPKIN_SEEDS
+        amount: 10
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BEETROOT_SEEDS
+        amount: 10
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: MELON_SEEDS
+        amount: 10
+  snapshots: []
+'12':
+  uniqueId: 2f6145f3-48e0-4b14-b81c-b3d792461b4c
+  world: village
+  x: -274
+  y: 39
+  z: 255
+  yaw: 269.27258
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:mason
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 9
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: CRYING_OBSIDIAN
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 9
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: OBSIDIAN
+  snapshots: []
